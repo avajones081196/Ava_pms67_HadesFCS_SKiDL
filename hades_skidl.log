@@ -1,0 +1,398 @@
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: Missing tag on XT60-M instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:331.
+WARNING: Random tag UcFDdXJKPC generated for XT60-M.
+WARNING: Missing tag on 100u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:338.
+WARNING: Random tag jzt4hOZJUy generated for 100u.
+WARNING: Missing tag on 47u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:345.
+WARNING: Random tag GFPd4f5SiU generated for 47u.
+WARNING: Missing tag on 2u2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:352.
+WARNING: Random tag UXUNae6wrs generated for 2u2.
+WARNING: Missing tag on 2u2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:359.
+WARNING: Random tag PI0c9CUS67 generated for 2u2.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:366.
+WARNING: Random tag L1BuRR9R7V generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:373.
+WARNING: Random tag RQ3Jm64ZCK generated for 100n.
+WARNING: Missing tag on 4n7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:380.
+WARNING: Random tag MvB6mkw3aU generated for 4n7.
+WARNING: Missing tag on 100u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:387.
+WARNING: Random tag 1SbcJCPb5d generated for 100u.
+WARNING: Missing tag on 47u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:394.
+WARNING: Random tag Zmqa4NA3ZO generated for 47u.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:401.
+WARNING: Random tag PSQwrbWYH4 generated for 100n.
+WARNING: Missing tag on 10u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:408.
+WARNING: Random tag 5mgOx9awkb generated for 10u.
+WARNING: Missing tag on 10u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:415.
+WARNING: Random tag I569bKl9u3 generated for 10u.
+WARNING: Missing tag on SD103AWS instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:422.
+WARNING: Random tag TciGDqipKh generated for SD103AWS.
+WARNING: Missing tag on 15u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:429.
+WARNING: Random tag s2zw3bU7mL generated for 15u.
+WARNING: Missing tag on G instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:436.
+WARNING: Random tag EGPOcnFjhJ generated for G.
+WARNING: Missing tag on G instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:443.
+WARNING: Random tag au0wiobYym generated for G.
+WARNING: Missing tag on 0.01 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:450.
+WARNING: Random tag UlU3vAKQGr generated for 0.01.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:457.
+WARNING: Random tag 24eSXcyaNa generated for 10k.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:464.
+WARNING: Random tag UTH1Pm5Nai generated for 10k.
+WARNING: Missing tag on 19k6 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:471.
+WARNING: Random tag XRN3ErndTR generated for 19k6.
+WARNING: Missing tag on 6k8 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:478.
+WARNING: Random tag N3mWiH3u3g generated for 6k8.
+WARNING: Missing tag on 1k3 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:485.
+WARNING: Random tag FmWFUuAaGS generated for 1k3.
+WARNING: Missing tag on 560 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:492.
+WARNING: Random tag AQmI83sizV generated for 560.
+WARNING: Missing tag on 240 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:499.
+WARNING: Random tag BiKljSI2Cn generated for 240.
+WARNING: Missing tag on MIC26903YJL-TR instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:506.
+WARNING: Random tag Exl7iRCLay generated for MIC26903YJL-TR.
+WARNING: Missing tag on LD39200PU33R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:513.
+WARNING: Random tag QxzCCuqFWU generated for LD39200PU33R.
+WARNING: Missing tag on INA219AIDCNR instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:520.
+WARNING: Random tag NUo0eAy7f4 generated for INA219AIDCNR.
+WARNING: Missing tag on 2u2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:527.
+WARNING: Random tag UTBIqIRqDj generated for 2u2.
+WARNING: Missing tag on 2u2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:534.
+WARNING: Random tag 3PLWvKnPX1 generated for 2u2.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:541.
+WARNING: Random tag VPvv7l7L5u generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:548.
+WARNING: Random tag oLUsEf9weK generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:555.
+WARNING: Random tag SOyaKC1Sat generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:562.
+WARNING: Random tag tVe4gtM4_n generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:569.
+WARNING: Random tag TB7ecovNdh generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:576.
+WARNING: Random tag ZtT2sQDhFT generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:583.
+WARNING: Random tag m2M2LANOzG generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:590.
+WARNING: Random tag RJk5c26enX generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:597.
+WARNING: Random tag TgB2YN4s5h generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:604.
+WARNING: Random tag uM0Vdf7wYp generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:611.
+WARNING: Random tag PxVBgeE_ih generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:618.
+WARNING: Random tag 3b_d9IZXqc generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:625.
+WARNING: Random tag lehZ1ddORb generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:632.
+WARNING: Random tag qDKWKVFAZe generated for 100n.
+WARNING: Missing tag on 10p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:639.
+WARNING: Random tag J9A26v27A0 generated for 10p.
+WARNING: Missing tag on 10p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:646.
+WARNING: Random tag vaAzpyRWHc generated for 10p.
+WARNING: Missing tag on STM32H753VITx instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:653.
+WARNING: Random tag 4KYnzPcH5X generated for STM32H753VITx.
+WARNING: Missing tag on 25MHz instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:660.
+WARNING: Random tag RExFRkECVQ generated for 25MHz.
+WARNING: Missing tag on R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:667.
+WARNING: Random tag DUcLJnCe6a generated for R.
+WARNING: Missing tag on R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:674.
+WARNING: Random tag AaPQMbayAU generated for R.
+WARNING: Missing tag on Y instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:681.
+WARNING: Random tag BgsTfwYF9j generated for Y.
+WARNING: Missing tag on B instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:688.
+WARNING: Random tag rBC7hAqzEU generated for B.
+WARNING: Missing tag on B instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:695.
+WARNING: Random tag APzdK5_OsT generated for B.
+WARNING: Missing tag on B instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:702.
+WARNING: Random tag tC3wKddGam generated for B.
+WARNING: Missing tag on 4k7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:709.
+WARNING: Random tag Sb3RzSuxYm generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:716.
+WARNING: Random tag DoeVxxL8Q6 generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:723.
+WARNING: Random tag hbqFZVTsIS generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:730.
+WARNING: Random tag XCUhCXFGqp generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:737.
+WARNING: Random tag rahhHiSVEu generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:744.
+WARNING: Random tag D54Wf3eTgA generated for 4k7.
+WARNING: Missing tag on 330 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:751.
+WARNING: Random tag w79XQLDfKh generated for 330.
+WARNING: Missing tag on 330 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:758.
+WARNING: Random tag nxnwgkc7pa generated for 330.
+WARNING: Missing tag on 330 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:765.
+WARNING: Random tag w3x8ED0ie_ generated for 330.
+WARNING: Missing tag on 100 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:772.
+WARNING: Random tag FXJ9K5XSB3 generated for 100.
+WARNING: Missing tag on 100 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:779.
+WARNING: Random tag 3I0nDIxZoe generated for 100.
+WARNING: Missing tag on 100 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:786.
+WARNING: Random tag EHikDhmqNT generated for 100.
+WARNING: Missing tag on 47 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:793.
+WARNING: Random tag _RycYjq4yO generated for 47.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:800.
+WARNING: Random tag _ekCOErGYR generated for 10k.
+WARNING: Missing tag on 620 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:807.
+WARNING: Random tag vKkLQXOp97 generated for 620.
+WARNING: Missing tag on SKRPANE010 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:814.
+WARNING: Random tag 4Nnpj11lNi generated for SKRPANE010.
+WARNING: Missing tag on TDD01H0SB1R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:821.
+WARNING: Random tag mejA7d0Xr0 generated for TDD01H0SB1R.
+WARNING: Missing tag on I2C1 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:828.
+WARNING: Random tag OC1SmN8eJv generated for I2C1.
+WARNING: Missing tag on I2C1 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:835.
+WARNING: Random tag TDQGJ0P1js generated for I2C1.
+WARNING: Missing tag on 2u2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:842.
+WARNING: Random tag FzRCWjPv0n generated for 2u2.
+WARNING: Missing tag on 2u2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:849.
+WARNING: Random tag xeLeS9KULa generated for 2u2.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:856.
+WARNING: Random tag vueZkppnNE generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:863.
+WARNING: Random tag Af7FHOWxvk generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:870.
+WARNING: Random tag dnpVaPTBsM generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:877.
+WARNING: Random tag qG0jl1kqJ6 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:884.
+WARNING: Random tag PnrPHmkE57 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:891.
+WARNING: Random tag SpPxpC9sr2 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:898.
+WARNING: Random tag lHknuP0Nhr generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:905.
+WARNING: Random tag bIykIi0jdJ generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:912.
+WARNING: Random tag iMNdLrnplU generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:919.
+WARNING: Random tag pxWcblc28g generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:926.
+WARNING: Random tag 75ka6Ii5P6 generated for 100n.
+WARNING: Missing tag on 10p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:933.
+WARNING: Random tag FJhO7NH1jW generated for 10p.
+WARNING: Missing tag on 10p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:940.
+WARNING: Random tag PiNRvSbjam generated for 10p.
+WARNING: Missing tag on 25MHz instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:947.
+WARNING: Random tag roS8PWf6ey generated for 25MHz.
+WARNING: Missing tag on R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:954.
+WARNING: Random tag sOrPAolj92 generated for R.
+WARNING: Missing tag on R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:961.
+WARNING: Random tag 2puRw2x4QN generated for R.
+WARNING: Missing tag on Y instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:968.
+WARNING: Random tag Wuk3DNwRMo generated for Y.
+WARNING: Missing tag on B instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:975.
+WARNING: Random tag dsjWQ6MYQg generated for B.
+WARNING: Missing tag on STM32F405RGTx instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:982.
+WARNING: Random tag TZ7XPwpgwg generated for STM32F405RGTx.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:989.
+WARNING: Random tag RYVzLnUqBW generated for 10k.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:996.
+WARNING: Random tag 5FrEnrCWYN generated for 10k.
+WARNING: Missing tag on 4k7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1003.
+WARNING: Random tag 5tvAitxPtG generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1010.
+WARNING: Random tag HjmtoM9ccT generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1017.
+WARNING: Random tag g8vIjt5kii generated for 4k7.
+WARNING: Missing tag on 4k7 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1024.
+WARNING: Random tag ng0iN0N1s_ generated for 4k7.
+WARNING: Missing tag on 620 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1031.
+WARNING: Random tag Umyc1HSagx generated for 620.
+WARNING: Missing tag on 330 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1038.
+WARNING: Random tag VOEPvFJKB8 generated for 330.
+WARNING: Missing tag on 330 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1045.
+WARNING: Random tag 94HxTicVv2 generated for 330.
+WARNING: Missing tag on 330 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1052.
+WARNING: Random tag tqAnvrceU5 generated for 330.
+WARNING: Missing tag on 100 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1059.
+WARNING: Random tag _8s8UgKO4g generated for 100.
+WARNING: Missing tag on TDD01H0SB1R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1066.
+WARNING: Random tag 5a7JC3rg1N generated for TDD01H0SB1R.
+WARNING: Missing tag on TDD01H0SB1R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1073.
+WARNING: Random tag _97Sk8qBH1 generated for TDD01H0SB1R.
+WARNING: Missing tag on SKRPANE010 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1080.
+WARNING: Random tag zwGsOpFFH1 generated for SKRPANE010.
+WARNING: Missing tag on I2C1 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1087.
+WARNING: Random tag 8PD5aToO3b generated for I2C1.
+WARNING: Missing tag on I2C1 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1094.
+WARNING: Random tag NjBTJcDxbQ generated for I2C1.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1101.
+WARNING: Random tag goVvYOdlzz generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1108.
+WARNING: Random tag UCFa4UbYsY generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1115.
+WARNING: Random tag Hnf31Qixm0 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1122.
+WARNING: Random tag 5ZP6X_8kcD generated for 100n.
+WARNING: Missing tag on SD103AWS instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1129.
+WARNING: Random tag BYF9tXfmXq generated for SD103AWS.
+WARNING: Missing tag on SD103AWS instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1136.
+WARNING: Random tag 5zyy6GjVQy generated for SD103AWS.
+WARNING: Missing tag on SD103AWS instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1143.
+WARNING: Random tag nwz_ne05hn generated for SD103AWS.
+WARNING: Missing tag on SD103AWS instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1150.
+WARNING: Random tag rs_U0f9ZwD generated for SD103AWS.
+WARNING: Missing tag on Conn_01x02 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1157.
+WARNING: Random tag 8TO8amTxVG generated for Conn_01x02.
+WARNING: Missing tag on SolderJumper_2_Open instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1164.
+WARNING: Random tag xiTJIUdqBV generated for SolderJumper_2_Open.
+WARNING: Missing tag on SolderJumper_2_Open instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1171.
+WARNING: Random tag EnWb9P9son generated for SolderJumper_2_Open.
+WARNING: Missing tag on Jumper_3_Open instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1178.
+WARNING: Random tag dy4pDnDDoO generated for Jumper_3_Open.
+WARNING: Missing tag on G instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1185.
+WARNING: Random tag z9lck7M6Ak generated for G.
+WARNING: Missing tag on G instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1192.
+WARNING: Random tag afHoMkBcfJ generated for G.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1199.
+WARNING: Random tag qjnVAU9Wp3 generated for 10.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1206.
+WARNING: Random tag 6Qolpx2rDq generated for 10.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1213.
+WARNING: Random tag NOuFYCoyxC generated for 10.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1220.
+WARNING: Random tag nTPiD5C3iK generated for 10.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1227.
+WARNING: Random tag g9unYsaMA_ generated for 10.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1234.
+WARNING: Random tag LG_fuLGTMt generated for 10.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1241.
+WARNING: Random tag 8YTx9lFB95 generated for 10.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1248.
+WARNING: Random tag TDE2KQzEyx generated for 10.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1255.
+WARNING: Random tag T94yGBcHPm generated for 10.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1262.
+WARNING: Random tag 613R_7cKps generated for 10.
+WARNING: Missing tag on 0 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1269.
+WARNING: Random tag VSu2FRyKh1 generated for 0.
+WARNING: Missing tag on 0 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1276.
+WARNING: Random tag TbTBNGH6cT generated for 0.
+WARNING: Missing tag on 22 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1283.
+WARNING: Random tag pbeHbhwa1l generated for 22.
+WARNING: Missing tag on 22 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1290.
+WARNING: Random tag N6Qc_dTsCU generated for 22.
+WARNING: Missing tag on 560 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1297.
+WARNING: Random tag 5pl9Yx95CL generated for 560.
+WARNING: Missing tag on 22 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1304.
+WARNING: Random tag k7oEpyNX8b generated for 22.
+WARNING: Missing tag on 22 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1311.
+WARNING: Random tag G_pXLClXlp generated for 22.
+WARNING: Missing tag on 560 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1318.
+WARNING: Random tag GdM7eZocHp generated for 560.
+WARNING: Missing tag on 560 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1325.
+WARNING: Random tag 0UV7Q9MkgF generated for 560.
+WARNING: Missing tag on 560 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1332.
+WARNING: Random tag yjtoPMavI2 generated for 560.
+WARNING: Missing tag on Conn_02x05_Odd_Even instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1339.
+WARNING: Random tag x3z6r5FmPX generated for Conn_02x05_Odd_Even.
+WARNING: Missing tag on Conn_02x05_Odd_Even instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1346.
+WARNING: Random tag fkE3_dhxcE generated for Conn_02x05_Odd_Even.
+WARNING: Missing tag on USB_B_Micro instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1353.
+WARNING: Random tag WOtCvP7B0F generated for USB_B_Micro.
+WARNING: Missing tag on USB_B_Micro instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1360.
+WARNING: Random tag qdh_7f7nB2 generated for USB_B_Micro.
+WARNING: Missing tag on USB_B_Micro instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1367.
+WARNING: Random tag 889oJMMVhK generated for USB_B_Micro.
+WARNING: Missing tag on USB_B_Micro instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1374.
+WARNING: Random tag OISW3on_3I generated for USB_B_Micro.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1381.
+WARNING: Random tag jEL9dwYiba generated for Conn_01x04.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1388.
+WARNING: Random tag ZEgKpdV3S5 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1395.
+WARNING: Random tag aPYmbJzNzw generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1402.
+WARNING: Random tag 6Yxku1SiUR generated for 100n.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1409.
+WARNING: Random tag JEATn_GadF generated for Conn_01x04.
+WARNING: Missing tag on Conn_02x08_Odd_Even instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1416.
+WARNING: Random tag UY_JGNg2pm generated for Conn_02x08_Odd_Even.
+WARNING: Missing tag on 2.54mm instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1423.
+WARNING: Random tag lXWw38AY6e generated for 2.54mm.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1430.
+WARNING: Random tag u3Zh5yMaNt generated for 10k.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1437.
+WARNING: Random tag 9GURxlsi5l generated for 10k.
+WARNING: Missing tag on Conn_01x06 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1444.
+WARNING: Random tag 87poBJKvEg generated for Conn_01x06.
+WARNING: Missing tag on PCA9685PW instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1451.
+WARNING: Random tag jWMwEC78CN generated for PCA9685PW.
+WARNING: Missing tag on 24CW1280T-I_OT instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1458.
+WARNING: Random tag hgKKomCpjt generated for 24CW1280T-I_OT.
+WARNING: Missing tag on W25N01GVZEIG_TR instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1465.
+WARNING: Random tag tMzgAZzaa6 generated for W25N01GVZEIG_TR.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1472.
+WARNING: Random tag DPrr5RCSZ5 generated for Conn_01x04.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1479.
+WARNING: Random tag O4usShI3Wb generated for Conn_01x04.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1486.
+WARNING: Random tag ajMkjETBAJ generated for Conn_01x04.
+WARNING: Missing tag on 5-1814832-1 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1493.
+WARNING: Random tag pez7QWMURS generated for 5-1814832-1.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1500.
+WARNING: Random tag ExVp0CMsXS generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1507.
+WARNING: Random tag wnc9jzrh8_ generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1514.
+WARNING: Random tag WiaUj0NJHN generated for 100n.
+WARNING: Missing tag on 1n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1521.
+WARNING: Random tag 8e0_MeEcYX generated for 1n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1528.
+WARNING: Random tag 62ELJkWtyC generated for 100n.
+WARNING: Missing tag on 220n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1535.
+WARNING: Random tag UL86EjYJZu generated for 220n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1542.
+WARNING: Random tag dNUZPeVqE6 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1549.
+WARNING: Random tag EGUt_sqtuq generated for 100n.
+WARNING: Missing tag on 10u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1556.
+WARNING: Random tag RHfNd0FkgS generated for 10u.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1563.
+WARNING: Random tag XHKegtcPRG generated for 100n.
+WARNING: Missing tag on 1u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1570.
+WARNING: Random tag 4cRDdmLjCG generated for 1u.
+WARNING: Missing tag on 1u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1577.
+WARNING: Random tag _SAtLmtG2c generated for 1u.
+WARNING: Missing tag on 22p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1584.
+WARNING: Random tag 6jYz0c9u6_ generated for 22p.
+WARNING: Missing tag on 10n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1591.
+WARNING: Random tag zPRgwu5T0p generated for 10n.
+WARNING: Missing tag on Conn_01x07 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1598.
+WARNING: Random tag xJE8dVH1Ib generated for Conn_01x07.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1605.
+WARNING: Random tag 9nBjlExaxL generated for Conn_01x04.
+WARNING: Missing tag on SolderJumper_3_Open instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1612.
+WARNING: Random tag d1LgEF95Bm generated for SolderJumper_3_Open.
+WARNING: Missing tag on 27n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1619.
+WARNING: Random tag 9sq7o7yvcG generated for 27n.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1626.
+WARNING: Random tag O9hKXkDUTD generated for 10k.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1633.
+WARNING: Random tag xD5p71SNwb generated for 10k.
+WARNING: Missing tag on 10 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1640.
+WARNING: Random tag 6hdUoxp9zG generated for 10.
+WARNING: Missing tag on BMI088 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1647.
+WARNING: Random tag sXbvfKzgyw generated for BMI088.
+WARNING: Missing tag on TMP100 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1654.
+WARNING: Random tag pxdOsmORoE generated for TMP100.
+WARNING: Missing tag on MPRLS0025PA00001A instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1661.
+WARNING: Random tag vPVCCYCjNE generated for MPRLS0025PA00001A.
+WARNING: Missing tag on IIS2MDCTR instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1668.
+WARNING: Random tag 30UnGHHbvY generated for IIS2MDCTR.
+WARNING: Missing tag on 24CW1280T-I_OT instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1675.
+WARNING: Random tag VjhFBGK8Lu generated for 24CW1280T-I_OT.
+WARNING: Missing tag on u-blox MAX-8Q instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1682.
+WARNING: Random tag vTiTaJulX_ generated for u-blox MAX-8Q.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/hades_skidl.py:1689.
+WARNING: Random tag Je0Fbcojhq generated for Conn_01x04.
+WARNING: Missing tag on  instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/<frozen importlib._bootstrap>:491.
+INFO: 395 warnings found while generating netlist.
+INFO: 0 errors found while generating netlist.
+

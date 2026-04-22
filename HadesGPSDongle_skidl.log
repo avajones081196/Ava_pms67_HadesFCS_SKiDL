@@ -1,0 +1,62 @@
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: Missing tag on 2u2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:42.
+WARNING: Random tag 0TSsOBsCsY generated for 2u2.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:49.
+WARNING: Random tag goTQnHQU9o generated for 100n.
+WARNING: Missing tag on 10n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:56.
+WARNING: Random tag mQ8EXCOexU generated for 10n.
+WARNING: Missing tag on 56p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:63.
+WARNING: Random tag YEOHWOpjZK generated for 56p.
+WARNING: Missing tag on 56p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:70.
+WARNING: Random tag jIEnrFTKXn generated for 56p.
+WARNING: Missing tag on 10p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:77.
+WARNING: Random tag rUSuEq8IRG generated for 10p.
+WARNING: Missing tag on 100p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:84.
+WARNING: Random tag 508kDb0nEk generated for 100p.
+WARNING: Missing tag on 100p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:91.
+WARNING: Random tag YuJ8btiDQG generated for 100p.
+WARNING: Missing tag on GREEN instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:98.
+WARNING: Random tag cGCES0E_9S generated for GREEN.
+WARNING: Missing tag on BLUE instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:105.
+WARNING: Random tag MnP63TVrKb generated for BLUE.
+WARNING: Missing tag on JSTGH instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:112.
+WARNING: Random tag A7bmoSNlpw generated for JSTGH.
+WARNING: Missing tag on CONUFL001-SMD-T instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:119.
+WARNING: Random tag M81eYNOF_b generated for CONUFL001-SMD-T.
+WARNING: Missing tag on CONSMA002 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:126.
+WARNING: Random tag X4kxUzlulD generated for CONSMA002.
+WARNING: Missing tag on 27n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:133.
+WARNING: Random tag v4B4Crevt6 generated for 27n.
+WARNING: Missing tag on 88n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:140.
+WARNING: Random tag n90lD_PYn5 generated for 88n.
+WARNING: Missing tag on AO3401A instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:147.
+WARNING: Random tag fkqlQBBF0a generated for AO3401A.
+WARNING: Missing tag on MMBT3904 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:154.
+WARNING: Random tag 0qapZmU5Is generated for MMBT3904.
+WARNING: Missing tag on 2k2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:161.
+WARNING: Random tag vqZ1NR36C1 generated for 2k2.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:168.
+WARNING: Random tag 2L92Xkkq3X generated for 10k.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:175.
+WARNING: Random tag 6x2IwZ4nN2 generated for 10k.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:182.
+WARNING: Random tag ZFi09UwWFW generated for 10k.
+WARNING: Missing tag on 22 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:189.
+WARNING: Random tag 5k3f9U4mLQ generated for 22.
+WARNING: Missing tag on 22 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:196.
+WARNING: Random tag FSJe2eoY_o generated for 22.
+WARNING: Missing tag on 1k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:203.
+WARNING: Random tag PJLfen5_3_ generated for 1k.
+WARNING: Missing tag on 2k2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:210.
+WARNING: Random tag YNmhAkl4Ru generated for 2k2.
+WARNING: Missing tag on TESEO-LIV3R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:217.
+WARNING: Random tag 5Xfu534mnG generated for TESEO-LIV3R.
+WARNING: Missing tag on MAX2674EWT+T instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesGPSDongle_skidl.py:224.
+WARNING: Random tag 4vmctbQxyB generated for MAX2674EWT+T.
+WARNING: Missing tag on  instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/<frozen importlib._bootstrap>:491.
+INFO: 59 warnings found while generating netlist.
+INFO: 0 errors found while generating netlist.
+

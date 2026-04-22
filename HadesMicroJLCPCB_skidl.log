@@ -1,0 +1,176 @@
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: fp-lib-table file was not found. Component footprints are not available.
+WARNING: Missing tag on TDD01H0SB1R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:190.
+WARNING: Random tag 4NHQTFsPxM generated for TDD01H0SB1R.
+WARNING: Missing tag on TDD01H0SB1R instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:197.
+WARNING: Random tag 2ChCmMC7JV generated for TDD01H0SB1R.
+WARNING: Missing tag on 1u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:204.
+WARNING: Random tag qh6pCBad4m generated for 1u.
+WARNING: Missing tag on 1u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:211.
+WARNING: Random tag L2zpWmVNmz generated for 1u.
+WARNING: Missing tag on 10u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:218.
+WARNING: Random tag w3GmIAfzwJ generated for 10u.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:225.
+WARNING: Random tag Pzj6D7EIMV generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:232.
+WARNING: Random tag _xpEZTdw6Q generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:239.
+WARNING: Random tag njd0YNwMEu generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:246.
+WARNING: Random tag 4VeyDx9hGt generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:253.
+WARNING: Random tag w2gQoYMGxH generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:260.
+WARNING: Random tag u1ZINTT08l generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:267.
+WARNING: Random tag vqi94QPUK1 generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:274.
+WARNING: Random tag 0njPcIcNaI generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:281.
+WARNING: Random tag Aca5kQ4V_B generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:288.
+WARNING: Random tag xo3xYauI3n generated for 100n.
+WARNING: Missing tag on 2u2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:295.
+WARNING: Random tag reyn3yzYBq generated for 2u2.
+WARNING: Missing tag on 2u2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:302.
+WARNING: Random tag bOr7HwUuhF generated for 2u2.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:309.
+WARNING: Random tag 3uvwFuykji generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:316.
+WARNING: Random tag qY4Pmc7jdV generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:323.
+WARNING: Random tag nMrKyaub3x generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:330.
+WARNING: Random tag lYZQ5Lx9O2 generated for 100n.
+WARNING: Missing tag on 10p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:337.
+WARNING: Random tag rA8t39Z2oF generated for 10p.
+WARNING: Missing tag on 10p instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:344.
+WARNING: Random tag 8qKwF4xlUt generated for 10p.
+WARNING: Missing tag on 1u instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:351.
+WARNING: Random tag imQfIAbC0c generated for 1u.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:358.
+WARNING: Random tag 7LQBvJQAC7 generated for 100n.
+WARNING: Missing tag on 1n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:365.
+WARNING: Random tag crRagV88KK generated for 1n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:372.
+WARNING: Random tag i5awHCTCpV generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:379.
+WARNING: Random tag 9lftE4aSJO generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:386.
+WARNING: Random tag kBbBpss80_ generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:393.
+WARNING: Random tag _SEDrZtOMh generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:400.
+WARNING: Random tag 0W1aVJyvZi generated for 100n.
+WARNING: Missing tag on 100n instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:407.
+WARNING: Random tag BE3yoGKCzK generated for 100n.
+WARNING: Missing tag on D_Schottky instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:414.
+WARNING: Random tag O6kiV7Y6nS generated for D_Schottky.
+WARNING: Missing tag on GR instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:421.
+WARNING: Random tag ddC5bvA3jr generated for GR.
+WARNING: Missing tag on RE instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:428.
+WARNING: Random tag iiL6kviWx9 generated for RE.
+WARNING: Missing tag on BL instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:435.
+WARNING: Random tag secCFky3tU generated for BL.
+WARNING: Missing tag on BL instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:442.
+WARNING: Random tag rKkFN98Gp_ generated for BL.
+WARNING: Missing tag on D_Schottky instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:449.
+WARNING: Random tag 9lQ1znEVgt generated for D_Schottky.
+WARNING: Missing tag on YE instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:456.
+WARNING: Random tag rNMCw5Pek_ generated for YE.
+WARNING: Missing tag on Fuse instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:463.
+WARNING: Random tag 3tzNxdLQL0 generated for Fuse.
+WARNING: Missing tag on FB_Small instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:470.
+WARNING: Random tag fuG7Vavrwe generated for FB_Small.
+WARNING: Missing tag on FB_Small instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:477.
+WARNING: Random tag MOVJS73B4g generated for FB_Small.
+WARNING: Missing tag on W25N01GVZEIG_TR instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:484.
+WARNING: Random tag SZJLLak7Zv generated for W25N01GVZEIG_TR.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:491.
+WARNING: Random tag Qmez25p_rI generated for Conn_01x04.
+WARNING: Missing tag on 16MHz instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:498.
+WARNING: Random tag Cf_k6zJZPI generated for 16MHz.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:505.
+WARNING: Random tag xurS3FO5Rm generated for Conn_01x04.
+WARNING: Missing tag on MPRLS0015PA0000SA instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:512.
+WARNING: Random tag FPvjfODtBx generated for MPRLS0015PA0000SA.
+WARNING: Missing tag on BMX055 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:519.
+WARNING: Random tag ecqo01vXuV generated for BMX055.
+WARNING: Missing tag on Jumper_NO_Small instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:526.
+WARNING: Random tag 2OAzYDqStv generated for Jumper_NO_Small.
+WARNING: Missing tag on STM32F405RGT6 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:533.
+WARNING: Random tag T41izAyYLq generated for STM32F405RGT6.
+WARNING: Missing tag on Conn_02x08_Odd_Even instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:540.
+WARNING: Random tag HiXSqjT1C8 generated for Conn_02x08_Odd_Even.
+WARNING: Missing tag on Conn_01x08 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:547.
+WARNING: Random tag FDRlV44yiS generated for Conn_01x08.
+WARNING: Missing tag on GR instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:554.
+WARNING: Random tag nNO7eVSDeo generated for GR.
+WARNING: Missing tag on 2k2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:561.
+WARNING: Random tag lhpNXt3heN generated for 2k2.
+WARNING: Missing tag on 2k2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:568.
+WARNING: Random tag C_NACnk2mX generated for 2k2.
+WARNING: Missing tag on 1k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:575.
+WARNING: Random tag HNpFz0jsN1 generated for 1k.
+WARNING: Missing tag on 1k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:582.
+WARNING: Random tag vM6hNX7eBR generated for 1k.
+WARNING: Missing tag on 1k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:589.
+WARNING: Random tag PKAddrPWmL generated for 1k.
+WARNING: Missing tag on 2k2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:596.
+WARNING: Random tag 2bkpqzpwDc generated for 2k2.
+WARNING: Missing tag on 2k2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:603.
+WARNING: Random tag g2DOYIi2oB generated for 2k2.
+WARNING: Missing tag on 2k2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:610.
+WARNING: Random tag BN87OZOv6f generated for 2k2.
+WARNING: Missing tag on 2k2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:617.
+WARNING: Random tag hmQIW_D_sQ generated for 2k2.
+WARNING: Missing tag on 470 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:624.
+WARNING: Random tag KI49iy3Wcb generated for 470.
+WARNING: Missing tag on 22 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:631.
+WARNING: Random tag jr35dP1fkQ generated for 22.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:638.
+WARNING: Random tag d9QelmWeOb generated for 10k.
+WARNING: Missing tag on 22 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:645.
+WARNING: Random tag JrK8bxB9dX generated for 22.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:652.
+WARNING: Random tag Llfs4_RxK9 generated for 10k.
+WARNING: Missing tag on 2k2 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:659.
+WARNING: Random tag KumeuTralk generated for 2k2.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:666.
+WARNING: Random tag qOOCl773Rs generated for 10k.
+WARNING: Missing tag on 10k instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:673.
+WARNING: Random tag bsbzsAIH6w generated for 10k.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:680.
+WARNING: Random tag JitMQN2VDq generated for Conn_01x04.
+WARNING: Missing tag on SKRPANE010 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:687.
+WARNING: Random tag dSGC0j6iYj generated for SKRPANE010.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:694.
+WARNING: Random tag VfYKLAm0m1 generated for Conn_01x04.
+WARNING: Missing tag on TrmnlBlck instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:701.
+WARNING: Random tag eZFES3oPlu generated for TrmnlBlck.
+WARNING: Missing tag on Conn_02x05_Counter_Clockwise instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:708.
+WARNING: Random tag 1C1HjTFJOl generated for Conn_02x05_Counter_Clockwise.
+WARNING: Missing tag on Conn_01x04 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:715.
+WARNING: Random tag BX5zWU5rFX generated for Conn_01x04.
+WARNING: Missing tag on AP2112K-3.3 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:722.
+WARNING: Random tag CEmlGWYgTM generated for AP2112K-3.3.
+WARNING: Missing tag on PCA9685PW instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:729.
+WARNING: Random tag iFWOJ31cAO generated for PCA9685PW.
+WARNING: Missing tag on CAT24C256 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:736.
+WARNING: Random tag 8tlO74lfqg generated for CAT24C256.
+WARNING: Missing tag on USBLC6-2SC6 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:743.
+WARNING: Random tag Dwyia7GbhR generated for USBLC6-2SC6.
+WARNING: Missing tag on 74AHC1GU04GW,125 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:750.
+WARNING: Random tag 5H6eJvE628 generated for 74AHC1GU04GW,125.
+WARNING: Missing tag on CH340E instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:757.
+WARNING: Random tag T4rvbbHy99 generated for CH340E.
+WARNING: Missing tag on USB_B_Micro instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:764.
+WARNING: Random tag 0k4mb5FPyX generated for USB_B_Micro.
+WARNING: Missing tag on Conn_01x02 instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/HadesMicroJLCPCB_skidl.py:771.
+WARNING: Random tag x7M8zJlArP generated for Conn_01x02.
+WARNING: Missing tag on  instantiated at /Users/avajones/Documents/ava_skidl/20240421_schematic/Hades_Hades/<frozen importlib._bootstrap>:491.
+INFO: 173 warnings found while generating netlist.
+INFO: 0 errors found while generating netlist.
+
